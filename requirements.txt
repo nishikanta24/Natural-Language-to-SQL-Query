@@ -1,0 +1,9 @@
+streamlit
+langchain
+psycopg2-binary
+requests
+python-dotenv
+pandas
+sqlparse
+huggingface-hub
+langchain-huggingface
