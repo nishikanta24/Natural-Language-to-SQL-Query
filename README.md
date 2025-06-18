@@ -6,14 +6,23 @@ GenAISQL is an AI-powered tool that converts plain English questions into SQL qu
 
 ## ✨ Key Features
 
-* ✅ **Natural Language Processing**: Converts plain English questions into PostgreSQL SQL queries
-* ✅ **Smart Schema Validation**: Two-step confirmation with real-time corrections before SQL generation
-* ✅ **Interactive Schema Editing**: Review and modify schema information before query generation
-* ✅ **PostgreSQL Optimization**: Enforces PostgreSQL-specific syntax and best practices automatically
-* ✅ **Multiple LLM Support**: Leverages OpenRouter API for access to various state-of-the-art language models
-* ✅ **Query Validation**: Built-in testing framework to evaluate generated SQL accuracy
-* ✅ **Real-time Results**: Instant SQL generation with copy-to-clipboard functionality
-* ✅ **Secure Configuration**: Environment-based configuration with proper secret management
+* ✅ **Natural Language Processing**: Converts plain English questions into PostgreSQL SQL queries  
+* ✅ **Smart Schema Validation**: Two-step confirmation with real-time corrections before SQL generation  
+* ✅ **Interactive Schema Editing**: Review and modify schema information before query generation  
+* ✅ **PostgreSQL Optimization**: Enforces PostgreSQL-specific syntax and best practices automatically  
+* ✅ **Multiple LLM Support**: Leverages OpenRouter API for access to various state-of-the-art language models  
+* ✅ **Query Validation**: Built-in testing framework to evaluate generated SQL accuracy  
+* ✅ **Real-time Results**: Instant SQL generation with copy-to-clipboard functionality  
+* ✅ **Secure Configuration**: Environment-based configuration with proper secret management  
+
+---
+
+## 🖼️ Screenshots
+
+![Screenshot 1](https://github.com/nishikanta24/Natural-Language-to-SQL-Query/raw/main/Screenshot%202025-06-18%20110853.png)
+
+![Screenshot 2](https://github.com/nishikanta24/Natural-Language-to-SQL-Query/raw/main/Screenshot%202025-06-18%20110928.png)
+
 
 ---
 
