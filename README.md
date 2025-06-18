@@ -567,25 +567,6 @@ Based on our comprehensive evaluation framework:
 
 ---
 
-## 🔮 Future Roadmap
-
-### **Phase 1: Enhanced Functionality**
-- [ ] **Query Execution**: Run generated SQL directly in the app
-- [ ] **Result Visualization**: Charts and graphs for query results
-- [ ] **Query History**: Save and retrieve previous queries
-- [ ] **Export Options**: CSV, JSON, Excel export formats
-
-### **Phase 2: Advanced Features**
-- [ ] **Multi-Database Support**: MySQL, SQLite, SQL Server
-- [ ] **Schema Relationships**: Automatic foreign key detection
-- [ ] **Natural Language Explanations**: Explain what the SQL does
-- [ ] **Query Optimization Suggestions**: Performance improvement tips
-
-### **Phase 3: Enterprise Features**
-- [ ] **User Authentication**: Role-based access control
-- [ ] **Audit Logging**: Track all queries and users
-- [ ] **Custom Model Training**: Fine-tune LLMs for specific domains
-- [ ] **API Endpoints**: RESTful API for integration
 
 ---
 
@@ -597,22 +578,12 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - Pull request process
 - Issue reporting
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 
 
 ## 📞 Support
 
-- **Documentation**: [Wiki](https://github.com/yourusername/genaisql/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/genaisql/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/genaisql/discussions)
-- **Email**: your-email@example.com
+- **Email**: nishinayak24@gmail.com
 
 ---
 
