@@ -12,3 +12,4 @@ RUN pip install --upgrade pip && \
 
 
 CMD ["streamlit", "run", "app_ui.py"]
+#CMD ["tail", "-f", "/dev/null"] 
